@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shanpc-com.github.io/shanpc.com/sitemap.xml
