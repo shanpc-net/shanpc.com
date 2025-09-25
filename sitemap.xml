@@ -4,16 +4,16 @@
   <!-- Homepage -->
   <url>
     <loc>https://shanpc-com.github.io/shanpc.com/</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
 
-  <!-- Posts -->
+  <!-- Example Post -->
   <url>
-    <loc>https://shanpc-com.github.io/shanpc.com/posts/post1.md</loc>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://shanpc-com.github.io/shanpc.com/posts/post2.md</loc>
+    <loc>https://shanpc-com.github.io/shanpc.com/post-1</loc>
+    <lastmod>2025-09-25</lastmod>
+    <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
